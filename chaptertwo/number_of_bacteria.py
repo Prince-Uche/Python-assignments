@@ -1,0 +1,5 @@
+print('Hour \t Number of Bacteria')
+print('0 \t', 200*(2**0))
+print('5 \t', 200*(2**5))
+print('10 \t', 200*(2**10))
+print('15 \t', 200*(2**15))
