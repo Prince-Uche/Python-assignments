@@ -1,0 +1,6 @@
+print('a \t b \t pow(a,b)')
+print('1 \t 2 \t',  pow(1, 2))
+print('2 \t 3 \t',  pow(2, 3))
+print('3 \t 4 \t',  pow(3, 4))
+print('4 \t 5 \t',  pow(4, 5))
+print('5 \t 6 \t',  pow(5, 6))
