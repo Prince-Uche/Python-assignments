@@ -1,7 +1,8 @@
 import random
-new_list = [1,2,3,4,5,6,7,8,9,10]
+new_list = 10
 
-for even in new_list:
-        print(even)
+random_number = random.sample(range(1, 50), new_list)
+
+print(random_number)
 
 
